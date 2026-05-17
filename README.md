@@ -1,4 +1,11 @@
-Tourism Data ETL Pipeline
+# Swiss Tourism Data ETL Pipeline
 
-This project is a small ETL pipeline built in Python to clean, transform, and load tourism‑related data from an Excel file into a PostgreSQL database. The script demonstrates practical skills in data cleaning, reshaping datasets, and working with relational databases using SQLAlchemy.
+A Python ETL pipeline that extracts, cleans, and loads tourism data from Excel into PostgreSQL.
 
+Project Overview
+
+**Data Source:** Swiss tourism Excel files  
+**Target:** PostgreSQL data warehouse  
+
+## Tech Stack
+Python • Pandas • PostgreSQL • SQLAlchemy
